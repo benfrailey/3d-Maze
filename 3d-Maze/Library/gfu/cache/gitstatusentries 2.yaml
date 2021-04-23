@@ -1,0 +1,1332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-04-22T13:08:56.344-05:00
+  initializedAtString: 2021-04-22T13:08:06.327-05:00
+  entries:
+  - path: 3d-Maze/Library/ArtifactDB
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/Artifacts/2b/2bc7b6c3fc45b74bbd23663974012e9e
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/2b/2bc7b6c3fc45b74bbd23663974012e9e
+    projectPath: Library/Artifacts/2b/2bc7b6c3fc45b74bbd23663974012e9e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/Artifacts/43/43b1667c0e1add6d39f2f41e964b321b
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/43/43b1667c0e1add6d39f2f41e964b321b
+    projectPath: Library/Artifacts/43/43b1667c0e1add6d39f2f41e964b321b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/Artifacts/5c/5c46fd7c972c7564fde5c145a9929433
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/5c/5c46fd7c972c7564fde5c145a9929433
+    projectPath: Library/Artifacts/5c/5c46fd7c972c7564fde5c145a9929433
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/Artifacts/66/6603d524ae5305d250d8a67f27e20e73
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/66/6603d524ae5305d250d8a67f27e20e73
+    projectPath: Library/Artifacts/66/6603d524ae5305d250d8a67f27e20e73
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/Artifacts/75/7543b2a53dd81547b1f456b90ed5d783
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/75/7543b2a53dd81547b1f456b90ed5d783
+    projectPath: Library/Artifacts/75/7543b2a53dd81547b1f456b90ed5d783
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/Artifacts/7a/7abe4c8f6995e61127beed8226bdb558
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/7a/7abe4c8f6995e61127beed8226bdb558
+    projectPath: Library/Artifacts/7a/7abe4c8f6995e61127beed8226bdb558
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/Artifacts/9d/9d4cc221acb380e56d25cfd8d0e92dac
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/9d/9d4cc221acb380e56d25cfd8d0e92dac
+    projectPath: Library/Artifacts/9d/9d4cc221acb380e56d25cfd8d0e92dac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/Artifacts/9e/9edcd8f13d1a9a2fc3c31aa57f14d1dd
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/9e/9edcd8f13d1a9a2fc3c31aa57f14d1dd
+    projectPath: Library/Artifacts/9e/9edcd8f13d1a9a2fc3c31aa57f14d1dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/Artifacts/a2/a2f372b4867039725c4f289d1ef5135a
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/a2/a2f372b4867039725c4f289d1ef5135a
+    projectPath: Library/Artifacts/a2/a2f372b4867039725c4f289d1ef5135a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/Artifacts/e9/e98b9e246dda45fc12d43e5249c057f7
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/e9/e98b9e246dda45fc12d43e5249c057f7
+    projectPath: Library/Artifacts/e9/e98b9e246dda45fc12d43e5249c057f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/Artifacts/fd/fd9a04a272d4a0034359ad30af625945
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/Artifacts/fd/fd9a04a272d4a0034359ad30af625945
+    projectPath: Library/Artifacts/fd/fd9a04a272d4a0034359ad30af625945
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Library/EditorInstance.json
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Documentation~/images/example.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Documentation~/images/example.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Documentation~/images/example.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/added-file-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/back-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-mine-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/choose-remote-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/clear-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-available-changes-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-done-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-error-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-incoming-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-offline-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-progress-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/collaborate-warning-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/conflicted-file-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/deleted-file-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/diff-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/edited-file-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/loading-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-conflicts-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/merge-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/more-vert-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/moved-file-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/publish-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/revert-asset-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/search-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/show-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-error-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-info-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/status-warning-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-dark.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-dark.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-dark@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-dark@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-dark@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-light.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-light.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-light@2x.png
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-light@2x.png
+    projectPath: Library/PackageCache/com.unity.collab-proxy@1.3.9/Editor/Assets/Icons/undo-light@2x.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageManager/ProjectCache
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageManager/ProjectCache
+    projectPath: Library/PackageManager/ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/PackageManager/ProjectCache.md5
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/PackageManager/ProjectCache.md5
+    projectPath: Library/PackageManager/ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/SceneVisibilityState.asset
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/UnityEditor.UI.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/UnityEditor.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/SourceAssetDB
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Logs/AssetImportWorker0.log
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Logs/AssetImportWorker0.log
+    projectPath: Logs/AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Logs/AssetImportWorker0-prev.log
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Logs/AssetImportWorker0-prev.log
+    projectPath: Logs/AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Logs/shadercompiler-AssetImportWorker0.log
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Logs/shadercompiler-AssetImportWorker0.log
+    projectPath: Logs/shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Logs/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Logs/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Logs/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Logs/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Logs/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Logs/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Logs/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Logs/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/__Backupscenes/0.backup
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/CompilationLog.txt
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: 3d-Maze/Temp/UnityTempFile-0c148f02ff38e43d7b89283f21ba3bae
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-0c148f02ff38e43d7b89283f21ba3bae
+    projectPath: Temp/UnityTempFile-0c148f02ff38e43d7b89283f21ba3bae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-22334d083fe774f888e70a055241d18c
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-22334d083fe774f888e70a055241d18c
+    projectPath: Temp/UnityTempFile-22334d083fe774f888e70a055241d18c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-252c0cc5a45e2494eb7b80510671fcbf
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-252c0cc5a45e2494eb7b80510671fcbf
+    projectPath: Temp/UnityTempFile-252c0cc5a45e2494eb7b80510671fcbf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-4b4cbb32c628d4be885870bd29f5e68a
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-4b4cbb32c628d4be885870bd29f5e68a
+    projectPath: Temp/UnityTempFile-4b4cbb32c628d4be885870bd29f5e68a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-4f01cf5b893924f07b52d47b0c269527
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-4f01cf5b893924f07b52d47b0c269527
+    projectPath: Temp/UnityTempFile-4f01cf5b893924f07b52d47b0c269527
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-535728ed7e2c04af5b36931f2e0ffa52
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-535728ed7e2c04af5b36931f2e0ffa52
+    projectPath: Temp/UnityTempFile-535728ed7e2c04af5b36931f2e0ffa52
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-55232e61391b44a0b96053282b710515
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-55232e61391b44a0b96053282b710515
+    projectPath: Temp/UnityTempFile-55232e61391b44a0b96053282b710515
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-56b0bc38e9d0740e59a9da7664311720
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-56b0bc38e9d0740e59a9da7664311720
+    projectPath: Temp/UnityTempFile-56b0bc38e9d0740e59a9da7664311720
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-573b6dc308ece455c895bc40fc133ea7
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-573b6dc308ece455c895bc40fc133ea7
+    projectPath: Temp/UnityTempFile-573b6dc308ece455c895bc40fc133ea7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-579b0d27e6876417d8e7f13011a16214
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-579b0d27e6876417d8e7f13011a16214
+    projectPath: Temp/UnityTempFile-579b0d27e6876417d8e7f13011a16214
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-5cf41a4a1c3cf404f94c2cdae0aa91af
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-5cf41a4a1c3cf404f94c2cdae0aa91af
+    projectPath: Temp/UnityTempFile-5cf41a4a1c3cf404f94c2cdae0aa91af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-5dd2b1a0a53dd4612bb6703386dd3851
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-5dd2b1a0a53dd4612bb6703386dd3851
+    projectPath: Temp/UnityTempFile-5dd2b1a0a53dd4612bb6703386dd3851
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-5ddf261d82e384bddba7a7e09782c8e0
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-5ddf261d82e384bddba7a7e09782c8e0
+    projectPath: Temp/UnityTempFile-5ddf261d82e384bddba7a7e09782c8e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-612291f912ca147efac51bc2125f726a
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-612291f912ca147efac51bc2125f726a
+    projectPath: Temp/UnityTempFile-612291f912ca147efac51bc2125f726a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-6aefeed4cbefe4f5ca976370f4b307b4
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-6aefeed4cbefe4f5ca976370f4b307b4
+    projectPath: Temp/UnityTempFile-6aefeed4cbefe4f5ca976370f4b307b4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-6b61089d5047446cb917cdc369b2f099
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-6b61089d5047446cb917cdc369b2f099
+    projectPath: Temp/UnityTempFile-6b61089d5047446cb917cdc369b2f099
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-7dc1dc567376848ddb9ad32850b93e5c
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-7dc1dc567376848ddb9ad32850b93e5c
+    projectPath: Temp/UnityTempFile-7dc1dc567376848ddb9ad32850b93e5c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-7dfdc06953efa4fc7b16e309e4497653
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-7dfdc06953efa4fc7b16e309e4497653
+    projectPath: Temp/UnityTempFile-7dfdc06953efa4fc7b16e309e4497653
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-7fe26dd3b41d342fca22e87e070b717e
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-7fe26dd3b41d342fca22e87e070b717e
+    projectPath: Temp/UnityTempFile-7fe26dd3b41d342fca22e87e070b717e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-919008d5c923447829dc990dddd01789
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-919008d5c923447829dc990dddd01789
+    projectPath: Temp/UnityTempFile-919008d5c923447829dc990dddd01789
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-97267b461c3f741249acd2694a30fc42
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-97267b461c3f741249acd2694a30fc42
+    projectPath: Temp/UnityTempFile-97267b461c3f741249acd2694a30fc42
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-973f1f836dab84f99b8bd8941dcdda08
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-973f1f836dab84f99b8bd8941dcdda08
+    projectPath: Temp/UnityTempFile-973f1f836dab84f99b8bd8941dcdda08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-985f37d880fb045be94a8f90f18338b2
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-985f37d880fb045be94a8f90f18338b2
+    projectPath: Temp/UnityTempFile-985f37d880fb045be94a8f90f18338b2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-9a99f58c83b5e4739a038e5ce7af0724
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-9a99f58c83b5e4739a038e5ce7af0724
+    projectPath: Temp/UnityTempFile-9a99f58c83b5e4739a038e5ce7af0724
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-a2ea717ea2d7246b7b32bf301ee4d527
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-a2ea717ea2d7246b7b32bf301ee4d527
+    projectPath: Temp/UnityTempFile-a2ea717ea2d7246b7b32bf301ee4d527
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-a5e9f9210a64f48fe95accd77b4637d3
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-a5e9f9210a64f48fe95accd77b4637d3
+    projectPath: Temp/UnityTempFile-a5e9f9210a64f48fe95accd77b4637d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-ab7b20723862c49c89c483afdeb4eaa7
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-ab7b20723862c49c89c483afdeb4eaa7
+    projectPath: Temp/UnityTempFile-ab7b20723862c49c89c483afdeb4eaa7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-ae275ac7b5ebd4e62b027eaca97242d9
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-ae275ac7b5ebd4e62b027eaca97242d9
+    projectPath: Temp/UnityTempFile-ae275ac7b5ebd4e62b027eaca97242d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-ae9cd8bc3634041d1bb3898dfa7bbcd0
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-ae9cd8bc3634041d1bb3898dfa7bbcd0
+    projectPath: Temp/UnityTempFile-ae9cd8bc3634041d1bb3898dfa7bbcd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-aebee157d80bd4be2badf23e8087ba16
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-aebee157d80bd4be2badf23e8087ba16
+    projectPath: Temp/UnityTempFile-aebee157d80bd4be2badf23e8087ba16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-af758dad7be524a968934b992c8f0d86
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-af758dad7be524a968934b992c8f0d86
+    projectPath: Temp/UnityTempFile-af758dad7be524a968934b992c8f0d86
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-b559db288b37740f1a3232c16ee16bda
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-b559db288b37740f1a3232c16ee16bda
+    projectPath: Temp/UnityTempFile-b559db288b37740f1a3232c16ee16bda
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-c0bcbe48872544c6792a926855605bc1
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-c0bcbe48872544c6792a926855605bc1
+    projectPath: Temp/UnityTempFile-c0bcbe48872544c6792a926855605bc1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-c3bda5caaef464486aa1cd6e4135ddd7
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-c3bda5caaef464486aa1cd6e4135ddd7
+    projectPath: Temp/UnityTempFile-c3bda5caaef464486aa1cd6e4135ddd7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-c7106f2f4b77244fe94421965a54aa32
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-c7106f2f4b77244fe94421965a54aa32
+    projectPath: Temp/UnityTempFile-c7106f2f4b77244fe94421965a54aa32
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-c85abf2423aef41f891c28dd94c51fd2
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-c85abf2423aef41f891c28dd94c51fd2
+    projectPath: Temp/UnityTempFile-c85abf2423aef41f891c28dd94c51fd2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-c9c5b822277434cb1a1836a41a6893ff
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-c9c5b822277434cb1a1836a41a6893ff
+    projectPath: Temp/UnityTempFile-c9c5b822277434cb1a1836a41a6893ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-cb4a773b480f5407097fa5d9828747e0
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-cb4a773b480f5407097fa5d9828747e0
+    projectPath: Temp/UnityTempFile-cb4a773b480f5407097fa5d9828747e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-ce2addf2590d34deca6d96c48d42c70a
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-ce2addf2590d34deca6d96c48d42c70a
+    projectPath: Temp/UnityTempFile-ce2addf2590d34deca6d96c48d42c70a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-ceedc28e84fba428a84b385b0191e4cf
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-ceedc28e84fba428a84b385b0191e4cf
+    projectPath: Temp/UnityTempFile-ceedc28e84fba428a84b385b0191e4cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-cff50fd43281d400d85e762a8538dff1
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-cff50fd43281d400d85e762a8538dff1
+    projectPath: Temp/UnityTempFile-cff50fd43281d400d85e762a8538dff1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-d8ab09c8069d24b0f88be86f67b7d6d8
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-d8ab09c8069d24b0f88be86f67b7d6d8
+    projectPath: Temp/UnityTempFile-d8ab09c8069d24b0f88be86f67b7d6d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-d983b8be950ce41d88b5cf3ae322b8a5
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-d983b8be950ce41d88b5cf3ae322b8a5
+    projectPath: Temp/UnityTempFile-d983b8be950ce41d88b5cf3ae322b8a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-da3c744a98e8743078d66ea673747812
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-da3c744a98e8743078d66ea673747812
+    projectPath: Temp/UnityTempFile-da3c744a98e8743078d66ea673747812
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-da423abea21c8435ca496953c0c565f2
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-da423abea21c8435ca496953c0c565f2
+    projectPath: Temp/UnityTempFile-da423abea21c8435ca496953c0c565f2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-dc9a462fcffb948699975ce08a025220
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-dc9a462fcffb948699975ce08a025220
+    projectPath: Temp/UnityTempFile-dc9a462fcffb948699975ce08a025220
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: 3d-Maze/Temp/UnityTempFile-e66d0098683f74e3688f306e83777d13
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-e66d0098683f74e3688f306e83777d13
+    projectPath: Temp/UnityTempFile-e66d0098683f74e3688f306e83777d13
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-ee9549c6b6ca042fa862cf0d7b0038ff
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-ee9549c6b6ca042fa862cf0d7b0038ff
+    projectPath: Temp/UnityTempFile-ee9549c6b6ca042fa862cf0d7b0038ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-fc499fb2952434e23a424d9f4814c3b2
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-fc499fb2952434e23a424d9f4814c3b2
+    projectPath: Temp/UnityTempFile-fc499fb2952434e23a424d9f4814c3b2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/UnityTempFile-fefeab78c0e12475d807c4558e6f51dd
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/UnityTempFile-fefeab78c0e12475d807c4558e6f51dd
+    projectPath: Temp/UnityTempFile-fefeab78c0e12475d807c4558e6f51dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: 3d-Maze/Temp/workerlic
+    fullPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dmaze/3d-Maze/Temp/workerlic
+    projectPath: Temp/workerlic
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
