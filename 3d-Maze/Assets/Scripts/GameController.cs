@@ -61,7 +61,7 @@ public class GameController : MonoBehaviour
     //6
     void Update()
     {
-        if(!player.enabled)
+        if (!player.enabled)
         {
             return;
         }

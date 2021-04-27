@@ -15,7 +15,6 @@ public class MazeMeshGenerator
 
     public Mesh FromData(int[,] data)
     {
-       
         Mesh maze = new Mesh();
 
         //3
@@ -105,9 +104,9 @@ public class MazeMeshGenerator
         return maze;
     }
 
-    private void AddQuad(Matrix4x4 matrix, ref List<Vector3> newVertices,
-    ref List<Vector2> newUVs, ref List<int> newTriangles)
-    {   
+    //1, 2
+    private void AddQuad(Matrix4x4 matrix, ref List<Vector3> newVertices, ref List<Vector2> newUVs, ref List<int> newTriangles)
+    {
         int index = newVertices.Count;
 
         // corners before transforming

@@ -8,7 +8,7 @@ public class MazeConstructor : MonoBehaviour
     private MazeMeshGenerator meshGenerator;
 
 
-
+    
     [SerializeField] private Material mazeMat1;
     [SerializeField] private Material mazeMat2;
     [SerializeField] private Material startMat;
@@ -19,36 +19,31 @@ public class MazeConstructor : MonoBehaviour
     {
         get; private set;
     }
-
     public float hallWidth
     {
-        get; private set;
+    get; private set;
     }
-
     public float hallHeight
     {
-        get; private set;
+    get; private set;
     }
-
     public int startRow
     {
         get; private set;
     }
-
     public int startCol
     {
         get; private set;
     }
-
     public int goalRow
     {
         get; private set;
     }
-
     public int goalCol
     {
         get; private set;
     }
+
 
     //3
     void Awake()
@@ -56,13 +51,7 @@ public class MazeConstructor : MonoBehaviour
         dataGenerator = new MazeDataGenerator();
         meshGenerator = new MazeMeshGenerator();
 
-        // default to walls surrounding a single empty cell
-        data = new int[,]
-        {
-            {1, 1, 1},
-            {1, 0, 1},
-            {1, 1, 1}
-        };
+
     }
     
     public void GenerateNewMaze(int sizeRows, int sizeCols,TriggerEventHandler startCallback=null, TriggerEventHandler goalCallback=null)
@@ -89,6 +78,7 @@ public class MazeConstructor : MonoBehaviour
         PlaceGoalTrigger(goalCallback);
     }
 
+
     private void DisplayMaze()
     {
         GameObject go = new GameObject();
@@ -114,7 +104,6 @@ public class MazeConstructor : MonoBehaviour
         }
     }
 
-
     private void FindStartPosition()
     {
         int[,] maze = data;
@@ -134,6 +123,7 @@ public class MazeConstructor : MonoBehaviour
             }
         }
     }
+
     private void FindGoalPosition()
     {
         int[,] maze = data;
@@ -182,4 +172,5 @@ public class MazeConstructor : MonoBehaviour
         TriggerEventRouter tc = go.AddComponent<TriggerEventRouter>();
         tc.callback = callback;
     }
+
 }
