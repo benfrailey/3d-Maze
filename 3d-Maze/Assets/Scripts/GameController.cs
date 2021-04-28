@@ -69,6 +69,7 @@ public class GameController : MonoBehaviour
         int timeUsed = (int)(DateTime.Now - startTime).TotalSeconds;
         int timeLeft = timeLimit - timeUsed;
 
+        
         if (timeLeft > 0)
         {
             timeLabel.text = timeLeft.ToString();

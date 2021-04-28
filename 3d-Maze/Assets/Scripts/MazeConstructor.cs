@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class MazeConstructor : MonoBehaviour
 {
@@ -43,6 +44,8 @@ public class MazeConstructor : MonoBehaviour
     {
         get; private set;
     }
+    
+    public int numGoals = 500;
 
 
     //3
@@ -64,9 +67,7 @@ public class MazeConstructor : MonoBehaviour
         DisposeOldMaze();
 
         data = dataGenerator.FromDimensions(sizeRows, sizeCols);
-
-        FindStartPosition();
-        FindGoalPosition();
+        
 
         // store values used to generate this mesh
         hallWidth = meshGenerator.width;
@@ -74,8 +75,16 @@ public class MazeConstructor : MonoBehaviour
 
         DisplayMaze();
 
+        FindStartPosition();
         PlaceStartTrigger(startCallback);
-        PlaceGoalTrigger(goalCallback);
+        
+        int goalsPlaced = 0;
+        
+        while(goalsPlaced < numGoals){
+          FindGoalPosition();
+          PlaceGoalTrigger(goalCallback);
+          goalsPlaced++;
+        }
     }
 
 
@@ -118,6 +127,8 @@ public class MazeConstructor : MonoBehaviour
                 {
                     startRow = i;
                     startCol = j;
+                    
+                    maze[i,j] = 1;
                     return;
                 }
             }
@@ -129,20 +140,32 @@ public class MazeConstructor : MonoBehaviour
         int[,] maze = data;
         int rMax = maze.GetUpperBound(0);
         int cMax = maze.GetUpperBound(1);
+        
+        List<Vector2> openList = new List<Vector2>();
 
-        // loop top to bottom, right to left
-        for (int i = rMax; i >= 0; i--)
+        for (int i = 0; i <= rMax; i++)
         {
-            for (int j = cMax; j >= 0; j--)
+            for (int j = 0; j <= cMax; j++)
             {
                 if (maze[i, j] == 0)
                 {
-                    goalRow = i;
-                    goalCol = j;
-                    return;
+                  openList.Add(new Vector2(i,j));
                 }
             }
         }
+        
+        if(openList.Count == 0){
+          return;
+        }
+      int randomIndex = (int) (openList.Count * Random.Range(0f,1f));
+
+      goalRow = (int)openList[randomIndex].x;
+      goalCol = (int)openList[randomIndex].y;
+      
+      maze[(int)openList[randomIndex].x, (int)openList[randomIndex].y] = 1;
+
+      return;
+        
     }
 
     private void PlaceStartTrigger(TriggerEventHandler callback)

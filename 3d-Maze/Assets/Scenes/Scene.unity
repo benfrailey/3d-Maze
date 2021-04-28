@@ -237,7 +237,7 @@ GameObject:
   - component: {fileID: 469521938}
   m_Layer: 0
   m_Name: Controller
-  m_TagString: Generated
+  m_TagString: GameController
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -274,6 +274,7 @@ MonoBehaviour:
   mazeMat2: {fileID: 2100000, guid: a36a45d20a42a4a0695e782d8b69409e, type: 2}
   startMat: {fileID: 2100000, guid: c8296ee06001c4d39b0f615626264b85, type: 2}
   treasureMat: {fileID: 2100000, guid: c5b8154923bae4fedbbb1f1aca66fd98, type: 2}
+  numGoals: 10
 --- !u!4 &469521940
 Transform:
   m_ObjectHideFlags: 0
