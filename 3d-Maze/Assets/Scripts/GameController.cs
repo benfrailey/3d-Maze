@@ -24,11 +24,10 @@ public class GameController : MonoBehaviour
     //3
     void Start() {
         generator = GetComponent<MazeConstructor>();
-        StartNewGame();
     }
 
     //4
-    private void StartNewGame()
+    public void StartNewGame(int difficulty)
     {
         timeLimit = 80;
         reduceLimitBy = 5;
@@ -37,13 +36,27 @@ public class GameController : MonoBehaviour
         score = 0;
         scoreLabel.text = score.ToString();
 
-        StartNewMaze();
+        StartNewMaze(difficulty);
     }
 
     //5
-    private void StartNewMaze()
+    private void StartNewMaze(int difficulty)
     {
-        generator.GenerateNewMaze(13, 15, OnStartTrigger, OnGoalTrigger);
+        switch(difficulty){
+            case 1:
+                generator.GenerateNewMaze(13, 15, OnStartTrigger, OnGoalTrigger);
+                break;
+            case 2:
+                generator.GenerateNewMaze(25, 30, OnStartTrigger, OnGoalTrigger);
+                break;
+            case 3:
+                generator.GenerateNewMaze(40, 45, OnStartTrigger, OnGoalTrigger);
+                break;
+            case 4:
+                generator.GenerateNewMaze(60, 75, OnStartTrigger, OnGoalTrigger);
+                break;
+
+        }
 
         float x = generator.startCol * generator.hallWidth;
         float y = 1;
