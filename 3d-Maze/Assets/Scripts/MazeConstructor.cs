@@ -127,8 +127,6 @@ public class MazeConstructor : MonoBehaviour
                 {
                     startRow = i;
                     startCol = j;
-                    
-                    maze[i,j] = 1;
                     return;
                 }
             }
