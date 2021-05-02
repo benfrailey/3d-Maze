@@ -970,7 +970,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4602cabd9f96343009128f9a331276dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  difficulty: 0
 --- !u!1 &563688645
 GameObject:
   m_ObjectHideFlags: 0
@@ -1214,7 +1213,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd5b71d961f0c4cd284712007bc8efbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  save: {fileID: 562818395}
 --- !u!1 &1057279487
 GameObject:
   m_ObjectHideFlags: 0
@@ -1374,7 +1372,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1109298976}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!20 &1109298978
 Camera:
   m_ObjectHideFlags: 0
@@ -1743,7 +1741,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd5b71d961f0c4cd284712007bc8efbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  save: {fileID: 562818395}
 --- !u!1 &1395393611
 GameObject:
   m_ObjectHideFlags: 0
@@ -1787,7 +1784,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd5b71d961f0c4cd284712007bc8efbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  save: {fileID: 562818395}
 --- !u!1 &1840665115
 GameObject:
   m_ObjectHideFlags: 0
@@ -1906,7 +1902,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd5b71d961f0c4cd284712007bc8efbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  save: {fileID: 562818395}
 --- !u!1 &1974137750
 GameObject:
   m_ObjectHideFlags: 0
@@ -1950,7 +1945,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd5b71d961f0c4cd284712007bc8efbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  save: {fileID: 562818395}
 --- !u!1 &1991998242
 GameObject:
   m_ObjectHideFlags: 0

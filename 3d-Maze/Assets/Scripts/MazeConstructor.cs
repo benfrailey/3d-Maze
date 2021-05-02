@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
+using UnityEngine.UI;
 
 public class MazeConstructor : MonoBehaviour
 {
@@ -53,8 +54,6 @@ public class MazeConstructor : MonoBehaviour
     {
         dataGenerator = new MazeDataGenerator();
         meshGenerator = new MazeMeshGenerator();
-
-
     }
     
     public void GenerateNewMaze(int sizeRows, int sizeCols,TriggerEventHandler startCallback=null, TriggerEventHandler goalCallback=null)

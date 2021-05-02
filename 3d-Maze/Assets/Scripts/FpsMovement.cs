@@ -23,7 +23,7 @@ public class FpsMovement : MonoBehaviour
 
     public float minimumVert = -45.0f;
     public float maximumVert = 45.0f;
-
+    private bool charMovement = false;
     private float rotationVert = 0;
 
     private CharacterController charController;
@@ -40,6 +40,10 @@ public class FpsMovement : MonoBehaviour
         RotateCamera();
     }
 
+    public bool checkCharMovement(){
+        return charMovement;
+    }
+
     private void MoveCharacter()
     {
         float deltaX = Input.GetAxis("Horizontal") * speed;
@@ -51,8 +55,12 @@ public class FpsMovement : MonoBehaviour
         movement.y = gravity;
         movement *= Time.deltaTime;
         movement = transform.TransformDirection(movement);
-
+        
         charController.Move(movement);
+
+        if(deltaX > 0 || deltaZ > 0){
+            charMovement = true;
+        }
     }
 
     private void RotateCharacter()

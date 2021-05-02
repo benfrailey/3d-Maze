@@ -20,17 +20,23 @@ public class GameController : MonoBehaviour
     private int reduceLimitBy;
 
     private int score;
-    private bool goalReached;
+    private bool goalReached;      
     
     //3
     void Start() {
         generator = GetComponent<MazeConstructor>();
+
+        if(DifficultySave.difficulty == 0)
+            StartNewGame(2);
+        else
+            StartNewGame(DifficultySave.difficulty);
+
     }
 
     //4
     public void StartNewGame(int difficulty)
     {
-        timeLimit = 80;
+        timeLimit = 60 + (difficulty * 20);
         reduceLimitBy = 5;
         startTime = DateTime.Now;
 
@@ -80,24 +86,20 @@ public class GameController : MonoBehaviour
             return;
         }
 
-        int timeUsed = (int)(DateTime.Now - startTime).TotalSeconds;
-        int timeLeft = timeLimit - timeUsed;
-
-        if (timeLeft > 0)
-        {
-            timeLabel.text = timeLeft.ToString();
-        }
-        else
-        {
-            timeLabel.text = "TIME UP";
-            player.enabled = false;
-
-            int difficulty = DifficultySave.difficulty;
-            
-            if(difficulty == 0){
-              difficulty = 2;
+        if(player.checkCharMovement() == true){
+            int timeUsed = (int)(DateTime.Now - startTime).TotalSeconds;
+            int timeLeft = timeLimit - timeUsed;
+        
+            if (timeLeft > 0)
+            {
+                timeLabel.text = timeLeft.ToString();
             }
-            StartNewGame(difficulty);
+            else
+            {
+                timeLabel.text = "GAME OVER";
+                player.enabled = false;
+                
+            }
         }
     }
 
