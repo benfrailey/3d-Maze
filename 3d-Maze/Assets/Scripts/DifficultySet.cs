@@ -18,10 +18,10 @@ public class DifficultySet : MonoBehaviour
     }
     
     public void setDifficulty(int difficulty){
-      DifficultySave.difficulty = difficulty;
+      SaveData.difficulty = difficulty;
       
       
-      Debug.Log(DifficultySave.difficulty);
+      Debug.Log(SaveData.difficulty);
       
       if(difficulty == 5){
       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);

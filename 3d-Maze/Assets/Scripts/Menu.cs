@@ -13,4 +13,8 @@ public class Menu : MonoBehaviour
     public void StartGame(int difficulty){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+    
+    public void PlayAgain(){
+        SceneManager.LoadScene(1);
+    }
 }

@@ -1,6 +1,8 @@
 using System;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
 
 [RequireComponent(typeof(MazeConstructor))]
 
@@ -26,10 +28,10 @@ public class GameController : MonoBehaviour
     void Start() {
         generator = GetComponent<MazeConstructor>();
 
-        if(DifficultySave.difficulty == 0)
+        if(SaveData.difficulty == 0)
             StartNewGame(2);
         else
-            StartNewGame(DifficultySave.difficulty);
+            StartNewGame(SaveData.difficulty);
 
     }
 
@@ -89,15 +91,20 @@ public class GameController : MonoBehaviour
         if(player.checkCharMovement() == true){
             int timeUsed = (int)(DateTime.Now - startTime).TotalSeconds;
             int timeLeft = timeLimit - timeUsed;
-        
+                    
             if (timeLeft > 0)
             {
                 timeLabel.text = timeLeft.ToString();
+                
             }
             else
             {
                 timeLabel.text = "GAME OVER";
                 player.enabled = false;
+                
+                SaveData.result = 0;
+                new WaitForSeconds(1);
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
                 
             }
         }
@@ -121,8 +128,14 @@ public class GameController : MonoBehaviour
         {
             Debug.Log("Finish!");
             player.enabled = false;
+            
+            SaveData.result = 1;
+            SaveData.score = score;
+            
+            new WaitForSeconds(1);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
 
-            Invoke("StartNewMaze", 4);
+//            Invoke("StartNewMaze", 4);
         }
     }
 }
