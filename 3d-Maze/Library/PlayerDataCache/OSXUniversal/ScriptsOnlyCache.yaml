@@ -1,12 +1,13 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - DifficultySave
     - DifficultySet
+    - FinalScore
     - FpsMovement
     - GameController
     - MazeConstructor
     - Menu
+    - SaveData
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -24,6 +25,7 @@ ScriptsOnlyBuild:
     - UnityEngine.EventSystems.StandaloneInputModule
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
@@ -85,6 +87,63 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
+    Assets/Scenes/Game Over.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1512}
+    - Class: 114
+      Script: {instanceID: 1540}
+    - Class: 114
+      Script: {instanceID: 1840}
+    - Class: 114
+      Script: {instanceID: 2234}
+    - Class: 114
+      Script: {instanceID: 2662}
+    - Class: 114
+      Script: {instanceID: 2842}
+    - Class: 114
+      Script: {instanceID: 2896}
+    - Class: 114
+      Script: {instanceID: 3070}
+    - Class: 114
+      Script: {instanceID: 3088}
+    - Class: 114
+      Script: {instanceID: 3390}
+    - Class: 114
+      Script: {instanceID: 3530}
+    - Class: 114
+      Script: {instanceID: 19522}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
     Assets/Scenes/Game.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -105,6 +164,10 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 1512}
+    - Class: 114
+      Script: {instanceID: 1840}
+    - Class: 114
       Script: {instanceID: 2234}
     - Class: 114
       Script: {instanceID: 2424}
@@ -113,15 +176,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2842}
     - Class: 114
+      Script: {instanceID: 2896}
+    - Class: 114
       Script: {instanceID: 2916}
     - Class: 114
       Script: {instanceID: 3038}
     - Class: 114
       Script: {instanceID: 3070}
     - Class: 114
+      Script: {instanceID: 3088}
+    - Class: 114
       Script: {instanceID: 3242}
     - Class: 114
       Script: {instanceID: 3390}
+    - Class: 114
+      Script: {instanceID: 3530}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -133,6 +202,8 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
       Script: {instanceID: 0}
     - Class: 222
       Script: {instanceID: 0}
@@ -535,7 +606,7 @@ ScriptsOnlyBuild:
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: DifficultySave
+    className: SaveData
   - hash:
       serializedVersion: 2
       Hash: fd68d84f33fad85aac38f2739c0ee270
@@ -674,9 +745,16 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 269dc1913143eb90d7d4b06d2d7bb099
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FinalScore
   platform: 2
   scenePathNames:
   - Assets/Scenes/Main Menu.unity
   - Assets/Scenes/Difficulty.unity
   - Assets/Scenes/Game.unity
-  playerPath: /Users/a3yko/Library/Mobile Documents/com~apple~CloudDocs/Github/3dMaze/3d-Maze/Testing.app
+  - Assets/Scenes/Game Over.unity
+  playerPath: /Users/benfrailey/Desktop/build.app

@@ -738,3 +738,42 @@ System memory in use after: 122.4 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1659.
 Total: 2.304051 ms (FindLiveObjects: 0.532784 ms CreateObjectMapping: 0.089975 ms MarkObjects: 1.617415 ms  DeleteObjects: 0.062130 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 587.514318 seconds.
+  path: Assets/Scenes/Game Over.unity
+  artifactKey: Guid(2115a0ada3f5b481f95bcd0d4da808f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game Over.unity using Guid(2115a0ada3f5b481f95bcd0d4da808f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b8626243fdb7401289b1b3d1219557') in 0.270088 seconds
+  Import took 0.417429 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.047139 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.490 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.5 MB.
+System memory in use after: 122.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 3.031463 ms (FindLiveObjects: 0.347466 ms CreateObjectMapping: 0.058961 ms MarkObjects: 2.521703 ms  DeleteObjects: 0.101876 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.1 MB.
+System memory in use after: 100.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 3.009008 ms (FindLiveObjects: 0.340838 ms CreateObjectMapping: 0.063246 ms MarkObjects: 2.527643 ms  DeleteObjects: 0.075515 ms)
+
